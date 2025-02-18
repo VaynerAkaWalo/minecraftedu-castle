@@ -75,7 +75,7 @@ function blockDirectory(id: number) {
     case 6:
       return LOG_OAK
     case 7:
-      return STONE_BRICK_SLAB
+      return STONE_BRICKS_SLAB
     case 8:
       return PLANKS_OAK
     case 9:
